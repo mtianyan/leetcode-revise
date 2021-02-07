@@ -12,6 +12,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-07 09:30 | [#25 K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | HARD | 2 | **2** |
 | 2021-02-07 09:15 | [#416 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum) | MEDIUM | 14 | **3** |
 | 2021-02-06 23:16 | [#701 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree) | MEDIUM | 1 | 1 |
 | 2021-02-06 23:14 | [#1038 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree) | MEDIUM | 1 | 1 |
@@ -141,7 +142,6 @@
 | 2021-01-27 15:01 | [#237 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | EASY | 2 | **2** |
 | 2021-01-27 14:36 | [#148 排序链表](https://leetcode-cn.com/problems/sort-list) | MEDIUM | 2 | 1 |
 | 2021-01-27 14:32 | [#147 对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list) | MEDIUM | 1 | 1 |
-| 2021-01-27 14:17 | [#25 K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | HARD | 1 | 1 |
 | 2021-01-26 15:53 | [#24 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs) | MEDIUM | 2 | 1 |
 | 2021-01-26 15:29 | [#21 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | EASY | 4 | **2** |
 | 2021-01-26 15:17 | [#82 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii) | MEDIUM | 2 | 1 |
