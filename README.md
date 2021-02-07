@@ -12,12 +12,12 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-07 09:15 | [#416 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum) | MEDIUM | 14 | **3** |
 | 2021-02-06 23:16 | [#701 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree) | MEDIUM | 1 | 1 |
 | 2021-02-06 23:14 | [#1038 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree) | MEDIUM | 1 | 1 |
 | 2021-02-06 23:12 | [#538 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree) | MEDIUM | 1 | 1 |
 | 2021-02-06 23:06 | [#234 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) | EASY | 4 | **2** |
 | 2021-02-06 22:59 | [#92 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii) | MEDIUM | 6 | **2** |
-| 2021-02-06 22:39 | [#416 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum) | MEDIUM | 10 | **2** |
 | 2021-02-06 22:31 | [#652 寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees) | MEDIUM | 2 | 1 |
 | 2021-02-06 22:22 | [#106 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | MEDIUM | 2 | 1 |
 | 2021-02-06 22:18 | [#105 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | MEDIUM | 4 | **2** |
