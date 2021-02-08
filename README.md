@@ -12,6 +12,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-08 10:27 | [#206 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | EASY | 9 | **4** |
 | 2021-02-08 09:12 | [#62 不同路径](https://leetcode-cn.com/problems/unique-paths) | MEDIUM | 8 | **2** |
 | 2021-02-07 10:39 | [#700 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) | EASY | 1 | 1 |
 | 2021-02-07 10:28 | [#234 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) | EASY | 5 | **3** |
@@ -152,7 +153,6 @@
 | 2021-01-25 15:33 | [#328 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list) | MEDIUM | 3 | 1 |
 | 2021-01-25 15:25 | [#86 分隔链表](https://leetcode-cn.com/problems/partition-list) | MEDIUM | 2 | 1 |
 | 2021-01-25 15:14 | [#83 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list) | EASY | 3 | 1 |
-| 2021-01-25 14:56 | [#206 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | EASY | 7 | **3** |
 | 2021-01-25 14:54 | [#220 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii) | MEDIUM | 5 | 1 |
 | 2021-01-25 14:42 | [#219 存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii) | EASY | 4 | 1 |
 | 2021-01-25 14:33 | [#719 找出第 k 小的距离对](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance) | HARD | 2 | 1 |
