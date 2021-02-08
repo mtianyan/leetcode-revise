@@ -12,6 +12,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-08 16:25 | [#992 K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers) | HARD | 1 | 1 |
+| 2021-02-08 16:24 | [#978 最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray) | MEDIUM | 2 | 1 |
 | 2021-02-08 10:27 | [#206 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | EASY | 9 | **4** |
 | 2021-02-08 09:12 | [#62 不同路径](https://leetcode-cn.com/problems/unique-paths) | MEDIUM | 8 | **2** |
 | 2021-02-07 10:39 | [#700 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) | EASY | 1 | 1 |
