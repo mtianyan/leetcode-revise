@@ -12,6 +12,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-08 09:12 | [#62 不同路径](https://leetcode-cn.com/problems/unique-paths) | MEDIUM | 8 | **2** |
 | 2021-02-07 10:39 | [#700 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) | EASY | 1 | 1 |
 | 2021-02-07 10:28 | [#234 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) | EASY | 5 | **3** |
 | 2021-02-07 09:30 | [#25 K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | HARD | 2 | **2** |
@@ -80,7 +81,6 @@
 | 2021-02-01 14:50 | [#435 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals) | MEDIUM | 13 | 1 |
 | 2021-02-01 14:01 | [#888 公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap) | EASY | 5 | 1 |
 | 2021-01-31 06:26 | [#63 不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii) | MEDIUM | 4 | 1 |
-| 2021-01-30 17:13 | [#62 不同路径](https://leetcode-cn.com/problems/unique-paths) | MEDIUM | 1 | 1 |
 | 2021-01-30 17:10 | [#91 解码方法](https://leetcode-cn.com/problems/decode-ways) | MEDIUM | 2 | 1 |
 | 2021-01-30 17:07 | [#279 完全平方数](https://leetcode-cn.com/problems/perfect-squares) | MEDIUM | 7 | **2** |
 | 2021-01-30 17:01 | [#343 整数拆分](https://leetcode-cn.com/problems/integer-break) | MEDIUM | 2 | 1 |
