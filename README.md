@@ -12,6 +12,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-10 15:43 | [#567 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string) | MEDIUM | 4 | **2** |
 | 2021-02-08 16:25 | [#992 K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers) | HARD | 1 | 1 |
 | 2021-02-08 16:24 | [#978 最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray) | MEDIUM | 2 | 1 |
 | 2021-02-08 10:27 | [#206 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | EASY | 9 | **4** |
@@ -49,7 +50,6 @@
 | 2021-02-06 18:32 | [#355 设计推特](https://leetcode-cn.com/problems/design-twitter) | MEDIUM | 2 | 1 |
 | 2021-02-06 18:02 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 2 | **2** |
 | 2021-02-06 17:55 | [#438 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) | MEDIUM | 2 | **2** |
-| 2021-02-06 17:52 | [#567 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string) | MEDIUM | 3 | 1 |
 | 2021-02-06 17:43 | [#76 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring) | HARD | 7 | **2** |
 | 2021-02-06 17:14 | [#344 反转字符串](https://leetcode-cn.com/problems/reverse-string) | EASY | 4 | **3** |
 | 2021-02-06 17:11 | [#167 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | EASY | 3 | **2** |
