@@ -12,6 +12,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-17 18:40 | [#995 K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips) | HARD | 1 | 1 |
 | 2021-02-17 06:11 | [#566 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix) | EASY | 1 | 1 |
 | 2021-02-16 07:48 | [#561 数组拆分 I](https://leetcode-cn.com/problems/array-partition-i) | EASY | 1 | 1 |
 | 2021-02-14 20:42 | [#485 最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones) | EASY | 1 | 1 |
