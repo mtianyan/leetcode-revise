@@ -12,6 +12,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-18 00:14 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 9 | **3** |
 | 2021-02-17 18:40 | [#995 K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips) | HARD | 1 | 1 |
 | 2021-02-17 06:11 | [#566 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix) | EASY | 1 | 1 |
 | 2021-02-16 07:48 | [#561 数组拆分 I](https://leetcode-cn.com/problems/array-partition-i) | EASY | 1 | 1 |
@@ -56,7 +57,6 @@
 | 2021-02-06 18:51 | [#122 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | EASY | 5 | 1 |
 | 2021-02-06 18:43 | [#121 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | EASY | 4 | 1 |
 | 2021-02-06 18:32 | [#355 设计推特](https://leetcode-cn.com/problems/design-twitter) | MEDIUM | 2 | 1 |
-| 2021-02-06 18:02 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 2 | **2** |
 | 2021-02-06 17:55 | [#438 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) | MEDIUM | 2 | **2** |
 | 2021-02-06 17:43 | [#76 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring) | HARD | 7 | **2** |
 | 2021-02-06 17:14 | [#344 反转字符串](https://leetcode-cn.com/problems/reverse-string) | EASY | 4 | **3** |
