@@ -142,7 +142,7 @@
 | 2021-01-29 14:58 | [#127 单词接龙](https://leetcode-cn.com/problems/word-ladder) | HARD | 1 | 1 |
 | 2021-01-28 15:50 | [#199 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view) | MEDIUM | 2 | 1 |
 | 2021-01-28 15:46 | [#103 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) | MEDIUM | 3 | 1 |
-| 2021-01-28 15:41 | [#107 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) | EASY | 2 | 1 |
+| 2021-01-28 15:41 | [#107 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) | MEDIUM | 2 | 1 |
 | 2021-01-28 15:37 | [#102 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | MEDIUM | 2 | **2** |
 | 2021-01-28 15:29 | [#341 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator) | MEDIUM | 4 | 1 |
 | 2021-01-28 14:44 | [#145 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) | MEDIUM | 4 | 1 |
