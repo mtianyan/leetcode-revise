@@ -12,6 +12,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-19 18:05 | [#697 数组的度](https://leetcode-cn.com/problems/degree-of-an-array) | EASY | 1 | 1 |
+| 2021-02-19 18:05 | [#1004 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii) | MEDIUM | 2 | 1 |
 | 2021-02-18 00:14 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 9 | **3** |
 | 2021-02-17 18:40 | [#995 K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips) | HARD | 1 | 1 |
 | 2021-02-17 06:11 | [#566 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix) | EASY | 1 | 1 |
