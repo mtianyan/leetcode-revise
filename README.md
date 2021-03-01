@@ -12,6 +12,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-01 14:45 | [#1 两数之和](https://leetcode-cn.com/problems/two-sum) | EASY | 7 | **3** |
+| 2021-03-01 14:35 | [#303 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable) | EASY | 1 | 1 |
 | 2021-02-24 13:48 | [#1052 爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner) | MEDIUM | 2 | 1 |
 | 2021-02-22 14:40 | [#766 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix) | EASY | 1 | 1 |
 | 2021-02-21 15:42 | [#1438 绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) | MEDIUM | 2 | 1 |
@@ -48,7 +50,6 @@
 | 2021-02-06 21:44 | [#226 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree) | EASY | 4 | **3** |
 | 2021-02-06 21:43 | [#18 四数之和](https://leetcode-cn.com/problems/4sum) | MEDIUM | 5 | **2** |
 | 2021-02-06 21:33 | [#15 三数之和](https://leetcode-cn.com/problems/3sum) | MEDIUM | 7 | **2** |
-| 2021-02-06 21:26 | [#1 两数之和](https://leetcode-cn.com/problems/two-sum) | EASY | 6 | **2** |
 | 2021-02-06 21:11 | [#986 区间列表的交集](https://leetcode-cn.com/problems/interval-list-intersections) | MEDIUM | 2 | 1 |
 | 2021-02-06 21:07 | [#56 合并区间](https://leetcode-cn.com/problems/merge-intervals) | MEDIUM | 4 | 1 |
 | 2021-02-06 20:55 | [#1288 删除被覆盖区间](https://leetcode-cn.com/problems/remove-covered-intervals) | MEDIUM | 1 | 1 |
