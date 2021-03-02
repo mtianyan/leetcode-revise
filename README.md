@@ -12,8 +12,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-02 03:16 | [#1 两数之和](https://leetcode-cn.com/problems/two-sum) | EASY | 9 | **4** |
 | 2021-03-01 16:02 | [#304 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable) | MEDIUM | 1 | 1 |
-| 2021-03-01 14:45 | [#1 两数之和](https://leetcode-cn.com/problems/two-sum) | EASY | 7 | **3** |
 | 2021-03-01 14:35 | [#303 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable) | EASY | 1 | 1 |
 | 2021-02-24 13:48 | [#1052 爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner) | MEDIUM | 2 | 1 |
 | 2021-02-22 14:40 | [#766 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix) | EASY | 1 | 1 |
