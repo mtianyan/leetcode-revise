@@ -135,7 +135,7 @@
 | 2021-01-29 17:11 | [#175 组合两个表](https://leetcode-cn.com/problems/combine-two-tables) | EASY | 1 | 1 |
 | 2021-01-29 17:00 | [#783 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes) | EASY | 2 | 1 |
 | 2021-01-29 16:49 | [#437 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii) | MEDIUM | 2 | 1 |
-| 2021-01-29 16:45 | [#129 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) | MEDIUM | 3 | 1 |
+| 2021-01-29 16:45 | [#129 求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) | MEDIUM | 3 | 1 |
 | 2021-01-29 16:39 | [#113 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii) | MEDIUM | 2 | 1 |
 | 2021-01-29 16:34 | [#257 二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths) | EASY | 2 | 1 |
 | 2021-01-29 16:31 | [#404 左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves) | EASY | 2 | 1 |
