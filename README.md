@@ -195,7 +195,7 @@
 | 2021-01-21 14:04 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 2 | 1 |
 | 2021-01-21 13:44 | [#88 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | EASY | 6 | **2** |
 | 2021-01-20 16:21 | [#75 颜色分类](https://leetcode-cn.com/problems/sort-colors) | MEDIUM | 2 | 1 |
-| 2021-01-20 15:56 | [#80 删除排序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 2 | 1 |
+| 2021-01-20 15:56 | [#80 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii) | MEDIUM | 2 | 1 |
 | 2021-01-20 14:53 | [#26 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | EASY | 5 | 1 |
 | 2021-01-20 14:30 | [#27 移除元素](https://leetcode-cn.com/problems/remove-element) | EASY | 1 | 1 |
 | 2021-01-20 14:25 | [#283 移动零](https://leetcode-cn.com/problems/move-zeroes) | EASY | 23 | **3** |
