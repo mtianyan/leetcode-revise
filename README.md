@@ -155,7 +155,7 @@
 | 2021-01-28 15:29 | [#341 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator) | MEDIUM | 4 | 1 |
 | 2021-01-28 14:44 | [#145 二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) | EASY | 4 | 1 |
 | 2021-01-28 14:36 | [#94 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | EASY | 3 | 1 |
-| 2021-01-28 14:24 | [#144 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) | MEDIUM | 4 | 1 |
+| 2021-01-28 14:24 | [#144 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) | EASY | 4 | 1 |
 | 2021-01-28 14:08 | [#71 简化路径](https://leetcode-cn.com/problems/simplify-path) | MEDIUM | 2 | 1 |
 | 2021-01-28 14:02 | [#150 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) | MEDIUM | 3 | 1 |
 | 2021-01-27 16:03 | [#20 有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | EASY | 15 | **2** |
