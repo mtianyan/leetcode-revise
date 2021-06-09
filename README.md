@@ -73,7 +73,7 @@
 | 2021-02-06 17:11 | [#167 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | EASY | 3 | **2** |
 | 2021-02-06 17:08 | [#19 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) | MEDIUM | 6 | **2** |
 | 2021-02-06 17:04 | [#876 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list) | EASY | 1 | 1 |
-| 2021-02-06 16:54 | [#665 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array) | EASY | 1 | 1 |
+| 2021-02-06 16:54 | [#665 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array) | MEDIUM | 1 | 1 |
 | 2021-02-06 16:50 | [#142 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | MEDIUM | 2 | 1 |
 | 2021-02-06 16:16 | [#141 环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | EASY | 1 | 1 |
 | 2021-02-06 16:10 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 1 | 1 |
@@ -88,7 +88,7 @@
 | 2021-02-03 14:52 | [#322 零钱兑换](https://leetcode-cn.com/problems/coin-change) | MEDIUM | 10 | **2** |
 | 2021-02-03 14:32 | [#509 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number) | EASY | 6 | 1 |
 | 2021-02-03 13:49 | [#480 滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median) | HARD | 5 | 1 |
-| 2021-02-02 15:40 | [#99 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree) | HARD | 3 | 1 |
+| 2021-02-02 15:40 | [#99 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree) | MEDIUM | 3 | 1 |
 | 2021-02-02 15:13 | [#124 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum) | HARD | 2 | 1 |
 | 2021-02-02 14:57 | [#494 目标和](https://leetcode-cn.com/problems/target-sum) | MEDIUM | 2 | 1 |
 | 2021-02-02 14:52 | [#139 单词拆分](https://leetcode-cn.com/problems/word-break) | MEDIUM | 1 | 1 |
